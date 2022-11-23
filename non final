@@ -1,0 +1,35 @@
+  <!DOCTYPE html>
+<html>
+<head>
+ <h1> Contract Acknowledgment </h1>
+
+<body>
+
+<p> Fil up form</p>
+
+<input type= "password">
+
+<form>
+  <label for="username">username:</label><br>
+  <input type="text" id="username" name="username"><br>
+
+  <label for="pwd">password:</label><br>
+  <input type="password" id="pwd" name="pwd">
+  </form>
+
+ <style>
+
+h1{
+text-align: center;
+color: blue;
+
+}
+
+p{
+text-align: center;
+color: yellow;
+font-family: Tahoma;
+font-size: 130%;
+}
+
+</style>
